@@ -1,0 +1,13 @@
+html, body {
+    color: white;
+    background-color: #21232A;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 70px;
+    font-size: 1.3rem;
+}
+
+button {
+    font-size: 1.3rem;
+    margin-right: 10px;
+    padding: 10px;
+}
